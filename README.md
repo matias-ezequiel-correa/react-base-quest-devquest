@@ -9,7 +9,7 @@
 
 ## Design:
 * Desktop:
-<img height="400em" src="./src/design/desktop-design1.png" alt="Projeto Formulario - Versão Desktop">
+<img height="400em" src="./src/design/design-desktop.PNG" alt="Projeto React Base - Versão Desktop">
 
 ## Tecnologias utilizadas:
 
